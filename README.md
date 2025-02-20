@@ -13,11 +13,15 @@ This project used the following dependencies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Biome](https://biomejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+  - [tailwind-merge](https://www.npmjs.com/package/tailwind-merge)
+
 - [Lucide React](https://lucide.dev/guide/packages/lucide-react)
 - [Zod](https://zod.dev/)
 - [React Hook Form](https://www.react-hook-form.com/)
+
   - [React Hook Form Resolvers](https://www.npmjs.com/package/@hookform/resolvers)
-- [tailwind-merge](https://www.npmjs.com/package/tailwind-merge)
+
 - [orval](https://orval.dev/)
 
 Resources:
