@@ -4,7 +4,7 @@
 
 > Trail: **React**;
 
-> Figma Project: **[NLW Connect • DevStage](https://www.figma.com/community/file/1471119935944492720/nlw-connect-devstage)**
+> Figma Project: **[NLW Connect • DevStage](https://www.figma.com/community/file/1471119935944492720/nlw-connect-devstage)**;
 
 This project used the following dependencies:
 
